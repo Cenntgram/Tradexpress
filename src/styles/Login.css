@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.login{
+    margin-top: 50px;
+}
+
+.main-login{
+    background-color: #EEEDEE;
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 30px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.main-div{
+    display: flex;
+    flex-direction: row;
+    gap: 105px;
+}
+
+.main-div button{
+    border: none;
+    color: #7C20BF;
+}
+.checkbox{
+    display: flex;
+    flex-direction: row;
+    gap: 7px;
+}
+.checkbox p{
+    padding-top: 14px;
+}
+.button1{
+    width: 390px;
+}
+.ptag{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.click{
+    color: #7C20BF;
+    border: none;
+    padding-bottom: 13px;
+}
+
+@media(min-width: 768px) {
+    .main-login{
+        width: 100%;
+    }
+}

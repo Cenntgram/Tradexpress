@@ -1,0 +1,29 @@
+.ptag5{
+    color: #292929;
+    /* width: 480px; */
+    /* height: 20px; */
+    font-size: 18px;
+    margin: auto;
+    /* padding-bottom: 30px; */
+}
+.head5{
+    /* width: 740px; */
+    color: #26093A;
+    /* height: 35px; */
+    font-size: 30px;
+    margin: auto;
+    padding-bottom: 60px;
+}
+.button5{
+    /* width: 307px; */
+    background-color: #7C20BF;
+    text-decoration: none;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 118px;
+}
+.sec5{
+    background-color: #EDE9EF;
+}
+

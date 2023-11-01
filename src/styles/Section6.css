@@ -1,0 +1,48 @@
+.main-union{
+    position: relative;
+}
+
+.image2{
+    position: absolute;
+    top: 15%;
+    left: 15%;
+}
+
+.image1{
+    width: 90%;
+    max-width: 400px;
+}
+
+.main-union p {
+    color: white;
+    position: absolute;
+    top: 25%;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 80%;
+    max-width: 350px;
+}
+
+.second-union{
+    display: flex;
+    padding-left: 15%;
+    gap: 20px;
+}
+.head6{
+    padding-top: 40px;
+    color: #26093A;
+}
+
+.section6{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+@media(min-width: 900px) {
+    .section6{
+        flex-direction: row;
+    }
+}

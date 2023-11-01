@@ -1,0 +1,82 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.individual{
+    /* background-color: #EEEDEE; */
+    width: 600px;
+    height: 510px;
+    padding-top: 50px;
+    /* box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); */
+    margin: 0 auto;
+    margin-bottom: 80px;
+}
+
+.indi1{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    font-size: 14px;
+    line-height: 15px;
+}
+
+.user{
+   width: 500px;
+   height: 40px;
+   border: none;
+   border-radius: 5px;
+}
+.full{
+    width: 500px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+}
+.email{
+    width: 500px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+}
+.phone{
+    width: 500px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+}
+.code{
+    width: 500px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+}
+.indi2{
+    height: 35px;
+    font-size: 14px;
+}
+
+.button1{
+    background-color: #7C20BF;
+    color: #EEEDEE;
+    width: 500px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+.button2{
+    border: none;
+}
+.indi-ptag{
+    padding-top: 20px;
+    padding-left: 150px;
+    font-size: 13px;
+    width: 400px;
+    align-items: center;
+}
+.indi-ptag2{
+    padding-top: 25px;
+
+}
